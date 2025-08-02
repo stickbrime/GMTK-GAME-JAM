@@ -134,6 +134,7 @@ MonoBehaviour:
   player: {fileID: 8534018703369305738}
   movespeed: 5
 <<<<<<< HEAD
+<<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -148,6 +149,8 @@ MonoBehaviour:
   items: []
   scenei: 2
 =======
+=======
+>>>>>>> parent of a251e26 (player weapon pickup + use)
 --- !u!50 &8534018703369305729
 >>>>>>> parent of a251e26 (player weapon pickup + use)
 Rigidbody2D:
