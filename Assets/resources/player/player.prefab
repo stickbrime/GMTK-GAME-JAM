@@ -42,7 +42,10 @@ GameObject:
   - component: {fileID: 8534018703369305743}
   - component: {fileID: 8534018703369305740}
   - component: {fileID: 8534018703369305741}
+<<<<<<< Updated upstream
   - component: {fileID: 8534018703369305729}
+=======
+>>>>>>> Stashed changes
   - component: {fileID: 8534018703369305742}
   m_Layer: 0
   m_Name: player
@@ -109,7 +112,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.14150941, g: 0.11681201, b: 0.11681201, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -133,6 +136,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 8534018703369305738}
   movespeed: 5
+  scenei: 2
+<<<<<<< Updated upstream
 --- !u!50 &8534018703369305729
 Rigidbody2D:
   serializedVersion: 4
@@ -154,6 +159,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+=======
+  attackPoint: {fileID: 0}
+  attackRange: 0.5
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  attackCooldown: 1
+  attackDuration: 0.2
+>>>>>>> Stashed changes
 --- !u!61 &8534018703369305742
 BoxCollider2D:
   m_ObjectHideFlags: 0
