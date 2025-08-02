@@ -1,36 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &329983028047524963
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 5625179724893901228}
-  m_Layer: 0
-  m_Name: AttackPoint
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &5625179724893901228
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 329983028047524963}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.46, y: 0.03, z: -0.0008425371}
-  m_LocalScale: {x: 1.8723086, y: 1.8723086, z: 1.8723086}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 8534018703369305743}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1323537186785156143
 GameObject:
   m_ObjectHideFlags: 0
@@ -73,7 +42,6 @@ GameObject:
   - component: {fileID: 8534018703369305743}
   - component: {fileID: 8534018703369305740}
   - component: {fileID: 8534018703369305741}
-  - component: {fileID: 5559038739484986813}
   - component: {fileID: 8534018703369305729}
   - component: {fileID: 8534018703369305742}
   m_Layer: 0
@@ -96,7 +64,6 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5198517653427857855}
-  - {fileID: 5625179724893901228}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -166,6 +133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 8534018703369305738}
   movespeed: 5
+<<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -179,6 +147,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items: []
   scenei: 2
+=======
+--- !u!50 &8534018703369305729
+>>>>>>> parent of a251e26 (player weapon pickup + use)
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
