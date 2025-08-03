@@ -18,11 +18,12 @@ public class PlayerScript : MonoBehaviour
     private float lastAttackTime;
     private PlayerInventory inventory;
     private SpriteRenderer spriteRenderer;
-
+    public Rigidbody2D playerphys;
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         inventory = GetComponent<PlayerInventory>();
+        playerphys = this.GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -30,19 +31,23 @@ public class PlayerScript : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.W))
         {
-            player.transform.position += (Vector3.up * movespeed) * Time.deltaTime;
+            // player.transform.position += (Vector3.up * movespeed) * Time.deltaTime;
+            playerphys.AddForce((Vector3.up * movespeed), ForceMode2D.Impulse);
         }
         if (Input.GetKey(KeyCode.A))
         {
-            player.transform.position += (Vector3.left * movespeed) * Time.deltaTime;
+            // player.transform.position += (Vector3.left * movespeed) * Time.deltaTime;
+            playerphys.AddForce((Vector3.left * movespeed), ForceMode2D.Impulse);
         }
         if (Input.GetKey(KeyCode.S))
         {
-            player.transform.position += (Vector3.down * movespeed) * Time.deltaTime;
+            // player.transform.position += (Vector3.down * movespeed) * Time.deltaTime;
+            playerphys.AddForce((Vector3.down * movespeed), ForceMode2D.Impulse);
         }
         if (Input.GetKey(KeyCode.D))
         {
-            player.transform.position += (Vector3.right * movespeed) * Time.deltaTime;
+            // player.transform.position += (Vector3.right * movespeed) * Time.deltaTime;
+            playerphys.AddForce((Vector3.right * movespeed), ForceMode2D.Impulse);
         }
         if (Input.GetKey(KeyCode.Space) && Time.time - lastAttackTime >= attackCooldown)
         {
@@ -58,15 +63,15 @@ public class PlayerScript : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            movespeed = 10;
+            movespeed = 2;
         }
         else if (Input.GetKey(KeyCode.LeftControl))
         {
-            movespeed = 2;
+            movespeed = 0.5f;
         }
         else
         {
-            movespeed = 5;
+            movespeed = 1;
         }
         // Debug.Log(scenei);
     }
