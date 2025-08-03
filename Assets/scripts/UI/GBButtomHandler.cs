@@ -9,13 +9,17 @@ public class GBButtomHandler : MonoBehaviour
 {
     public void OnBeginButtonClick()
     {
-        Debug.Log("µã»÷ÁË¿ªÊ¼ÓÎÏ·°´Å¥");
-        // SceneManager.LoadScene("");
+        Debug.Log("ï¿½ï¿½ï¿½ï¿½Ë¿ï¿½Ê¼ï¿½ï¿½Ï·ï¿½ï¿½Å¥");
+        SceneManager.LoadSceneAsync(1);
+        audioControl.instance.Currentindex = 1;
+        audioControl.instance.playFloorauio();
+        PlayerPrefs.SetInt("box", 0);
+        PlayerPrefs.SetInt("key",0);
     }
 
     public void OnQuitButtonClick()
     {
-        Debug.Log("µã»÷ÁËÍË³öÓÎÏ·°´Å¥");
+        Debug.Log("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ë³ï¿½ï¿½ï¿½Ï·ï¿½ï¿½Å¥");
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
 #else

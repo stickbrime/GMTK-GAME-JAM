@@ -83,13 +83,13 @@ public class BlockDataManager : MonoBehaviour
     {
         if (blockPrefab == null)
         {
-            Debug.LogError("Block prefab is not assigned!");
+           
             return;
         }
 
         var sceneData = GetSceneData(sceneName);
 
-        // È·±£·½¿éÊýÁ¿ºÍÎ»ÖÃÊýÁ¿Ò»ÖÂ
+        // È·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½
         while (sceneData.spawnedBlocks.Count < sceneData.blockPositions.Count)
         {
             sceneData.spawnedBlocks.Add(null);
@@ -99,7 +99,7 @@ public class BlockDataManager : MonoBehaviour
         {
             if (sceneData.spawnedBlocks[i] == null)
             {
-                // ¼ì²é¸ÃÎ»ÖÃÊÇ·ñÒÑÓÐÆäËû·½¿é
+                // ï¿½ï¿½ï¿½ï¿½Î»ï¿½ï¿½ï¿½Ç·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
                 Collider2D overlap = Physics2D.OverlapCircle(
                     sceneData.blockPositions[i],
                     0.4f,
@@ -129,7 +129,7 @@ public class BlockDataManager : MonoBehaviour
                     Debug.LogWarning($"Position {sceneData.blockPositions[i]} already occupied in {sceneName}");
                     sceneData.blockPositions.RemoveAt(i);
                     sceneData.spawnedBlocks.RemoveAt(i);
-                    i--; // ÒòÎªÒÆ³ýÁËÒ»¸öÔªËØ£¬ÐèÒªµ÷ÕûË÷Òý
+                    i--; // ï¿½ï¿½Îªï¿½Æ³ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Ôªï¿½Ø£ï¿½ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
                 }
             }
         }
