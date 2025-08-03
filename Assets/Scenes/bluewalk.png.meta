@@ -1,0 +1,2637 @@
+fileFormatVersion: 2
+guid: e37cd15d2b368d747a8f5b7d277ff543
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6504764601411865125
+    second: bluewalk_0
+  - first:
+      213: -5827949488760858896
+    second: bluewalk_1
+  - first:
+      213: 1484902409896061661
+    second: bluewalk_2
+  - first:
+      213: -3479743328176160332
+    second: bluewalk_3
+  - first:
+      213: -8327156157618764973
+    second: bluewalk_4
+  - first:
+      213: -7876691069015144081
+    second: bluewalk_5
+  - first:
+      213: 7468396943789715240
+    second: bluewalk_6
+  - first:
+      213: -2990589668202480156
+    second: bluewalk_7
+  - first:
+      213: -3385519224168498123
+    second: bluewalk_8
+  - first:
+      213: -3609371476776592985
+    second: bluewalk_9
+  - first:
+      213: 2158074769817840443
+    second: bluewalk_10
+  - first:
+      213: 1871249656723910489
+    second: bluewalk_11
+  - first:
+      213: -4898298291783470653
+    second: bluewalk_12
+  - first:
+      213: 7292565998562254765
+    second: bluewalk_13
+  - first:
+      213: 8950528886460081115
+    second: bluewalk_14
+  - first:
+      213: 5115263305296892480
+    second: bluewalk_15
+  - first:
+      213: -3767741660673404316
+    second: bluewalk_16
+  - first:
+      213: 4467692874272213942
+    second: bluewalk_17
+  - first:
+      213: 760344109733546988
+    second: bluewalk_18
+  - first:
+      213: -5579512596173706791
+    second: bluewalk_19
+  - first:
+      213: 5548698088030247139
+    second: bluewalk_20
+  - first:
+      213: 2100047518272174946
+    second: bluewalk_21
+  - first:
+      213: 537682599452254663
+    second: bluewalk_22
+  - first:
+      213: -3237642201096460010
+    second: bluewalk_23
+  - first:
+      213: -5420501004630907680
+    second: bluewalk_24
+  - first:
+      213: -5771544055960233599
+    second: bluewalk_25
+  - first:
+      213: 2802483032645162378
+    second: bluewalk_26
+  - first:
+      213: 4475154564893588714
+    second: bluewalk_27
+  - first:
+      213: -6677372808951278189
+    second: bluewalk_28
+  - first:
+      213: -942433837758992524
+    second: bluewalk_29
+  - first:
+      213: -3050635711491518167
+    second: bluewalk_30
+  - first:
+      213: 6893309874426304343
+    second: bluewalk_31
+  - first:
+      213: 6842493641915301026
+    second: bluewalk_32
+  - first:
+      213: -4159510840657109432
+    second: bluewalk_33
+  - first:
+      213: 2204812443753429817
+    second: bluewalk_34
+  - first:
+      213: 308190002090130794
+    second: bluewalk_35
+  - first:
+      213: -1907449496228428087
+    second: bluewalk_36
+  - first:
+      213: -4574723517916738180
+    second: bluewalk_37
+  - first:
+      213: 760497230492379680
+    second: bluewalk_38
+  - first:
+      213: -2110859112496184029
+    second: bluewalk_39
+  - first:
+      213: 5013581946928421136
+    second: bluewalk_40
+  - first:
+      213: 1478084418767423257
+    second: bluewalk_41
+  - first:
+      213: -1807922155371533133
+    second: bluewalk_42
+  - first:
+      213: 1354319867829698507
+    second: bluewalk_43
+  - first:
+      213: -9035118528601521775
+    second: bluewalk_44
+  - first:
+      213: -4664964996583635862
+    second: bluewalk_45
+  - first:
+      213: 7537930000873261677
+    second: bluewalk_46
+  - first:
+      213: -6650378973870557338
+    second: bluewalk_47
+  - first:
+      213: 7293403595244358336
+    second: bluewalk_48
+  - first:
+      213: 2169187553522862152
+    second: bluewalk_49
+  - first:
+      213: -6685573112422630247
+    second: bluewalk_50
+  - first:
+      213: 3427425613010931526
+    second: bluewalk_51
+  - first:
+      213: -8847560293815708379
+    second: bluewalk_52
+  - first:
+      213: 8029686834326464242
+    second: bluewalk_53
+  - first:
+      213: -6778761375919019628
+    second: bluewalk_54
+  - first:
+      213: 8634151616234770370
+    second: bluewalk_55
+  - first:
+      213: 743664575888353197
+    second: bluewalk_56
+  - first:
+      213: 174391075801970620
+    second: bluewalk_57
+  - first:
+      213: -6400011523997155006
+    second: bluewalk_58
+  - first:
+      213: -1035653776253695186
+    second: bluewalk_59
+  - first:
+      213: -1659209266025247403
+    second: bluewalk_60
+  - first:
+      213: 722285620105989962
+    second: bluewalk_61
+  - first:
+      213: -7735532309775490979
+    second: bluewalk_62
+  - first:
+      213: 7700348127984685329
+    second: bluewalk_63
+  - first:
+      213: 2346649984717471972
+    second: bluewalk_64
+  - first:
+      213: -5533170233134207845
+    second: bluewalk_65
+  - first:
+      213: 5696038399450671886
+    second: bluewalk_66
+  - first:
+      213: -5405593465667889442
+    second: bluewalk_67
+  - first:
+      213: -9215317551370290562
+    second: bluewalk_68
+  - first:
+      213: -296782094055240303
+    second: bluewalk_69
+  - first:
+      213: 5597478878667302341
+    second: bluewalk_70
+  - first:
+      213: 2817725277473312747
+    second: bluewalk_71
+  - first:
+      213: -3705161818641688040
+    second: bluewalk_72
+  - first:
+      213: -3204140668763001672
+    second: bluewalk_73
+  - first:
+      213: -7702922859873845124
+    second: bluewalk_74
+  - first:
+      213: -5730282561372860553
+    second: bluewalk_75
+  - first:
+      213: -3031246337894976778
+    second: bluewalk_76
+  - first:
+      213: 3409070755965102656
+    second: bluewalk_77
+  - first:
+      213: -463766974352352248
+    second: bluewalk_78
+  - first:
+      213: -34185901728307409
+    second: bluewalk_79
+  - first:
+      213: -8128536041248411772
+    second: bluewalk_80
+  - first:
+      213: 8681537192462208384
+    second: bluewalk_81
+  - first:
+      213: 4075430422504659706
+    second: bluewalk_82
+  - first:
+      213: 8713201243980299683
+    second: bluewalk_83
+  - first:
+      213: 5509320897625572561
+    second: bluewalk_84
+  - first:
+      213: 383109614423726708
+    second: bluewalk_85
+  - first:
+      213: 9048900540399527680
+    second: bluewalk_86
+  - first:
+      213: -5830701011898021583
+    second: bluewalk_87
+  - first:
+      213: -3483015236699716393
+    second: bluewalk_88
+  - first:
+      213: -5309708694948815318
+    second: bluewalk_89
+  - first:
+      213: -8642898385941998127
+    second: bluewalk_90
+  - first:
+      213: 1307477607983346821
+    second: bluewalk_91
+  - first:
+      213: -1926914200504266480
+    second: bluewalk_92
+  - first:
+      213: 6655379186951705090
+    second: bluewalk_93
+  - first:
+      213: -3678321281367621278
+    second: bluewalk_94
+  - first:
+      213: 315295229596595841
+    second: bluewalk_95
+  - first:
+      213: -2288194627222072939
+    second: bluewalk_96
+  - first:
+      213: -5088514289639039667
+    second: bluewalk_97
+  - first:
+      213: -9149003505232646682
+    second: bluewalk_98
+  - first:
+      213: 8275128756363439015
+    second: bluewalk_99
+  - first:
+      213: -2282572643057963594
+    second: bluewalk_100
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluewalk_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7242
+        width: 607
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a80b6f0f0954a50800000000000000
+      internalID: 6504764601411865125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 7234
+        width: 622
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65d7951d6fe1fa0800000000000000
+      internalID: -5827949488760858896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_2
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 7232
+        width: 587
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae9fbdfde6b9410800000000000000
+      internalID: 1484902409896061661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_3
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 7237
+        width: 630
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1468621e775bfc0800000000000000
+      internalID: -3479743328176160332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_4
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 7239
+        width: 607
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3534de3089fff6c80800000000000000
+      internalID: -8327156157618764973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_5
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 7241
+        width: 584
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f694cd9843f50b290800000000000000
+      internalID: -7876691069015144081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_6
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 7243
+        width: 608
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe23c737315a760800000000000000
+      internalID: 7468396943789715240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_7
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 7245
+        width: 644
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed76d5aa8a4f76d0800000000000000
+      internalID: -2990589668202480156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_8
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 7249
+        width: 603
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c3e2fe3383401d0800000000000000
+      internalID: -3385519224168498123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_9
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 7248
+        width: 649
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9dd40e3cfe8edc0800000000000000
+      internalID: -3609371476776592985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6527
+        width: 631
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ba9b5b19503fd10800000000000000
+      internalID: 2158074769817840443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 6524
+        width: 605
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fa91306a308f910800000000000000
+      internalID: 1871249656723910489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_12
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 6519
+        width: 650
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f75ae7afb50cb0800000000000000
+      internalID: -4898298291783470653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_13
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 6515
+        width: 560
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf15655326643560800000000000000
+      internalID: 7292565998562254765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_14
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 6515
+        width: 560
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3635da99aa63c70800000000000000
+      internalID: 8950528886460081115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_15
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 6515
+        width: 578
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042dfc4dfd01df640800000000000000
+      internalID: 5115263305296892480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_16
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 6516
+        width: 557
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621f160cea46bbc0800000000000000
+      internalID: -3767741660673404316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_17
+      rect:
+        serializedVersion: 2
+        x: 5128
+        y: 6518
+        width: 565
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb0a809ffe600e30800000000000000
+      internalID: 4467692874272213942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_18
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 6520
+        width: 591
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8ab770f84d8a00800000000000000
+      internalID: 760344109733546988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_19
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 6526
+        width: 555
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9af35fad69192b0800000000000000
+      internalID: -5579512596173706791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5807
+        width: 575
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e89ee6438fe00d40800000000000000
+      internalID: 5548698088030247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_21
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 5809
+        width: 582
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bbd02671ed42d10800000000000000
+      internalID: 2100047518272174946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_22
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 5812
+        width: 563
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a246b97b367700800000000000000
+      internalID: 537682599452254663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_23
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 5808
+        width: 552
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e4d562959113d0800000000000000
+      internalID: -3237642201096460010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_24
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 5803
+        width: 569
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4a35a2e0386c4b0800000000000000
+      internalID: -5420501004630907680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_25
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 5803
+        width: 548
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18919f2924b57efa0800000000000000
+      internalID: -5771544055960233599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_26
+      rect:
+        serializedVersion: 2
+        x: 4368
+        y: 5804
+        width: 555
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85dfd1587b64e620800000000000000
+      internalID: 2802483032645162378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_27
+      rect:
+        serializedVersion: 2
+        x: 5071
+        y: 5803
+        width: 570
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec337bcd51fa1e30800000000000000
+      internalID: 4475154564893588714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_28
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 5800
+        width: 561
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955b99fec43553a0800000000000000
+      internalID: -6677372808951278189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_29
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 5791
+        width: 562
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2114fa6dcbe2f0800000000000000
+      internalID: -942433837758992524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5067
+        width: 571
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9215d6dbbf6f9a5d0800000000000000
+      internalID: -3050635711491518167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 5069
+        width: 563
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7575fd7fec4f9af50800000000000000
+      internalID: 6893309874426304343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_32
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5071
+        width: 556
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acfa38d6bb65fe50800000000000000
+      internalID: 6842493641915301026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_33
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 5074
+        width: 560
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1f3fade27646c0800000000000000
+      internalID: -4159510840657109432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_34
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 5078
+        width: 581
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb84a6c31199e10800000000000000
+      internalID: 2204812443753429817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_35
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 5080
+        width: 564
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db8ed8c29e64400800000000000000
+      internalID: 308190002090130794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_36
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 5081
+        width: 560
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68e4e0ac06785e0800000000000000
+      internalID: -1907449496228428087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_37
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 5083
+        width: 576
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d82f8c2315380c0800000000000000
+      internalID: -4574723517916738180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_38
+      rect:
+        serializedVersion: 2
+        x: 5786
+        y: 5085
+        width: 590
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aaa2ca334dd8a00800000000000000
+      internalID: 760497230492379680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_39
+      rect:
+        serializedVersion: 2
+        x: 6532
+        y: 5088
+        width: 594
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c4cc22d8b4b2e0800000000000000
+      internalID: -2110859112496184029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4363
+        width: 624
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019daf6b732d39540800000000000000
+      internalID: 5013581946928421136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_41
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 4361
+        width: 638
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170ca892f5338410800000000000000
+      internalID: 1478084418767423257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 4359
+        width: 635
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc6583e068f8e6e0800000000000000
+      internalID: -1807922155371533133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_43
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 4357
+        width: 638
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3e3a8eb28bc210800000000000000
+      internalID: 1354319867829698507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_44
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 4358
+        width: 670
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191082f719fcc9280800000000000000
+      internalID: -9035118528601521775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_45
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 4360
+        width: 673
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6440093d07b24fb0800000000000000
+      internalID: -4664964996583635862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_46
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 4362
+        width: 656
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a8fcbe56b1c9860800000000000000
+      internalID: 7537930000873261677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_47
+      rect:
+        serializedVersion: 2
+        x: 5095
+        y: 4364
+        width: 654
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667f7b8fe8b15b3a0800000000000000
+      internalID: -6650378973870557338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_48
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 4367
+        width: 670
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cac8128def573560800000000000000
+      internalID: 7293403595244358336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_49
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 4360
+        width: 645
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848cdea46908a1e10800000000000000
+      internalID: 2169187553522862152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3635
+        width: 647
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c752a0da21833a0800000000000000
+      internalID: -6685573112422630247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_51
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3634
+        width: 661
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f879d8f69a09f20800000000000000
+      internalID: 3427425613010931526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_52
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3635
+        width: 668
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52593460ac6273580800000000000000
+      internalID: -8847560293815708379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_53
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 3635
+        width: 639
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e8a9f1ad2f6f60800000000000000
+      internalID: 8029686834326464242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_54
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 3629
+        width: 645
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499653ba1700de1a0800000000000000
+      internalID: -6778761375919019628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_55
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 3624
+        width: 651
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc986362ba2d770800000000000000
+      internalID: 8634151616234770370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_56
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3623
+        width: 619
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7edddddf6025a00800000000000000
+      internalID: 743664575888353197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_57
+      rect:
+        serializedVersion: 2
+        x: 5103
+        y: 3625
+        width: 616
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7bc2d62cf8b6200800000000000000
+      internalID: 174391075801970620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_58
+      rect:
+        serializedVersion: 2
+        x: 5801
+        y: 3627
+        width: 638
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2414eb97d679e27a0800000000000000
+      internalID: -6400011523997155006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_59
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 3632
+        width: 610
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4b1ca06e90a1f0800000000000000
+      internalID: -1035653776253695186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_60
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2912
+        width: 640
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4782a6fd49f8e0800000000000000
+      internalID: -1659209266025247403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_61
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2914
+        width: 634
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f4ac4d1f2160a00800000000000000
+      internalID: 722285620105989962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_62
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2916
+        width: 632
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50664f495ed5a490800000000000000
+      internalID: -7735532309775490979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_63
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2917
+        width: 642
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1111f5ff2d12dda60800000000000000
+      internalID: 7700348127984685329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_64
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 2917
+        width: 617
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c24f5ab9f09020800000000000000
+      internalID: 2346649984717471972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_65
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2918
+        width: 656
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c254c2dfa3633b0800000000000000
+      internalID: -5533170233134207845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_66
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 2916
+        width: 620
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bed32deb46c0f40800000000000000
+      internalID: 5696038399450671886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_67
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 2916
+        width: 617
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed651be02697bf4b0800000000000000
+      internalID: -5405593465667889442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_68
+      rect:
+        serializedVersion: 2
+        x: 5798
+        y: 2913
+        width: 645
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ab62a038d9c1080800000000000000
+      internalID: -9215317551370290562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_69
+      rect:
+        serializedVersion: 2
+        x: 6533
+        y: 2915
+        width: 631
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d0424024e91ebf0800000000000000
+      internalID: -296782094055240303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2195
+        width: 612
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c567b8226d3ead40800000000000000
+      internalID: 5597478878667302341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_71
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2197
+        width: 640
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8f6ef5329a1720800000000000000
+      internalID: 2817725277473312747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_72
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2199
+        width: 646
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a958ce4fe949cc0800000000000000
+      internalID: -3705161818641688040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_73
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2199
+        width: 606
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcaffbb90b9883d0800000000000000
+      internalID: -3204140668763001672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_74
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2193
+        width: 643
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70cbf48878b91590800000000000000
+      internalID: -7702922859873845124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_75
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 2194
+        width: 641
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f41caee52f970b0800000000000000
+      internalID: -5730282561372860553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_76
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 2195
+        width: 607
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2f0131489dee5d0800000000000000
+      internalID: -3031246337894976778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_77
+      rect:
+        serializedVersion: 2
+        x: 5128
+        y: 2193
+        width: 581
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae87f5ac37f4f20800000000000000
+      internalID: 3409070755965102656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_78
+      rect:
+        serializedVersion: 2
+        x: 5823
+        y: 2188
+        width: 607
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c9b2bd46e5099f0800000000000000
+      internalID: -463766974352352248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_79
+      rect:
+        serializedVersion: 2
+        x: 6565
+        y: 2179
+        width: 585
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27682f7a1c868ff0800000000000000
+      internalID: -34185901728307409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1458
+        width: 583
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fad6d8983a13f80800000000000000
+      internalID: -8128536041248411772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_81
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1461
+        width: 634
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d4d0d64140b7870800000000000000
+      internalID: 8681537192462208384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_82
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1462
+        width: 619
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afad5307066de8830800000000000000
+      internalID: 4075430422504659706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_83
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1465
+        width: 610
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adffebed528be870800000000000000
+      internalID: 8713201243980299683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_84
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 1469
+        width: 625
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4cb90ba2a057c40800000000000000
+      internalID: 5509320897625572561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_85
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1471
+        width: 651
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a53cd1a24115500800000000000000
+      internalID: 383109614423726708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_86
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1472
+        width: 637
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007aa5e2917249d70800000000000000
+      internalID: 9048900540399527680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_87
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 1472
+        width: 607
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ce427250351fa0800000000000000
+      internalID: -5830701011898021583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_88
+      rect:
+        serializedVersion: 2
+        x: 5833
+        y: 1471
+        width: 609
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d48d359818d9afc0800000000000000
+      internalID: -3483015236699716393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_89
+      rect:
+        serializedVersion: 2
+        x: 6543
+        y: 1472
+        width: 624
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ed5c0f2102056b0800000000000000
+      internalID: -5309708694948815318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 748
+        width: 606
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d55124c5b14e0880800000000000000
+      internalID: -8642898385941998127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_91
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 746
+        width: 622
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ff9705f7152210800000000000000
+      internalID: 1307477607983346821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_92
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 746
+        width: 651
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011994e6eb93245e0800000000000000
+      internalID: -1926914200504266480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_93
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 747
+        width: 613
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d8cbdb18ac5c50800000000000000
+      internalID: 6655379186951705090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_94
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 752
+        width: 650
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261c25e784af3fcc0800000000000000
+      internalID: -3678321281367621278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_95
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 755
+        width: 631
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186fa7f3757206400800000000000000
+      internalID: 315295229596595841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_96
+      rect:
+        serializedVersion: 2
+        x: 4396
+        y: 755
+        width: 601
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59198732c13be30e0800000000000000
+      internalID: -2288194627222072939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_97
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 752
+        width: 618
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dd093b637f169b0800000000000000
+      internalID: -5088514289639039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_98
+      rect:
+        serializedVersion: 2
+        x: 5793
+        y: 749
+        width: 645
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ededc519c5380180800000000000000
+      internalID: -9149003505232646682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_99
+      rect:
+        serializedVersion: 2
+        x: 6553
+        y: 749
+        width: 605
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba9a9a2c927d270800000000000000
+      internalID: 8275128756363439015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluewalk_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 590
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6184564ca250e0800000000000000
+      internalID: -2282572643057963594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bluewalk_0: 6504764601411865125
+      bluewalk_1: -5827949488760858896
+      bluewalk_10: 2158074769817840443
+      bluewalk_100: -2282572643057963594
+      bluewalk_11: 1871249656723910489
+      bluewalk_12: -4898298291783470653
+      bluewalk_13: 7292565998562254765
+      bluewalk_14: 8950528886460081115
+      bluewalk_15: 5115263305296892480
+      bluewalk_16: -3767741660673404316
+      bluewalk_17: 4467692874272213942
+      bluewalk_18: 760344109733546988
+      bluewalk_19: -5579512596173706791
+      bluewalk_2: 1484902409896061661
+      bluewalk_20: 5548698088030247139
+      bluewalk_21: 2100047518272174946
+      bluewalk_22: 537682599452254663
+      bluewalk_23: -3237642201096460010
+      bluewalk_24: -5420501004630907680
+      bluewalk_25: -5771544055960233599
+      bluewalk_26: 2802483032645162378
+      bluewalk_27: 4475154564893588714
+      bluewalk_28: -6677372808951278189
+      bluewalk_29: -942433837758992524
+      bluewalk_3: -3479743328176160332
+      bluewalk_30: -3050635711491518167
+      bluewalk_31: 6893309874426304343
+      bluewalk_32: 6842493641915301026
+      bluewalk_33: -4159510840657109432
+      bluewalk_34: 2204812443753429817
+      bluewalk_35: 308190002090130794
+      bluewalk_36: -1907449496228428087
+      bluewalk_37: -4574723517916738180
+      bluewalk_38: 760497230492379680
+      bluewalk_39: -2110859112496184029
+      bluewalk_4: -8327156157618764973
+      bluewalk_40: 5013581946928421136
+      bluewalk_41: 1478084418767423257
+      bluewalk_42: -1807922155371533133
+      bluewalk_43: 1354319867829698507
+      bluewalk_44: -9035118528601521775
+      bluewalk_45: -4664964996583635862
+      bluewalk_46: 7537930000873261677
+      bluewalk_47: -6650378973870557338
+      bluewalk_48: 7293403595244358336
+      bluewalk_49: 2169187553522862152
+      bluewalk_5: -7876691069015144081
+      bluewalk_50: -6685573112422630247
+      bluewalk_51: 3427425613010931526
+      bluewalk_52: -8847560293815708379
+      bluewalk_53: 8029686834326464242
+      bluewalk_54: -6778761375919019628
+      bluewalk_55: 8634151616234770370
+      bluewalk_56: 743664575888353197
+      bluewalk_57: 174391075801970620
+      bluewalk_58: -6400011523997155006
+      bluewalk_59: -1035653776253695186
+      bluewalk_6: 7468396943789715240
+      bluewalk_60: -1659209266025247403
+      bluewalk_61: 722285620105989962
+      bluewalk_62: -7735532309775490979
+      bluewalk_63: 7700348127984685329
+      bluewalk_64: 2346649984717471972
+      bluewalk_65: -5533170233134207845
+      bluewalk_66: 5696038399450671886
+      bluewalk_67: -5405593465667889442
+      bluewalk_68: -9215317551370290562
+      bluewalk_69: -296782094055240303
+      bluewalk_7: -2990589668202480156
+      bluewalk_70: 5597478878667302341
+      bluewalk_71: 2817725277473312747
+      bluewalk_72: -3705161818641688040
+      bluewalk_73: -3204140668763001672
+      bluewalk_74: -7702922859873845124
+      bluewalk_75: -5730282561372860553
+      bluewalk_76: -3031246337894976778
+      bluewalk_77: 3409070755965102656
+      bluewalk_78: -463766974352352248
+      bluewalk_79: -34185901728307409
+      bluewalk_8: -3385519224168498123
+      bluewalk_80: -8128536041248411772
+      bluewalk_81: 8681537192462208384
+      bluewalk_82: 4075430422504659706
+      bluewalk_83: 8713201243980299683
+      bluewalk_84: 5509320897625572561
+      bluewalk_85: 383109614423726708
+      bluewalk_86: 9048900540399527680
+      bluewalk_87: -5830701011898021583
+      bluewalk_88: -3483015236699716393
+      bluewalk_89: -5309708694948815318
+      bluewalk_9: -3609371476776592985
+      bluewalk_90: -8642898385941998127
+      bluewalk_91: 1307477607983346821
+      bluewalk_92: -1926914200504266480
+      bluewalk_93: 6655379186951705090
+      bluewalk_94: -3678321281367621278
+      bluewalk_95: 315295229596595841
+      bluewalk_96: -2288194627222072939
+      bluewalk_97: -5088514289639039667
+      bluewalk_98: -9149003505232646682
+      bluewalk_99: 8275128756363439015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
