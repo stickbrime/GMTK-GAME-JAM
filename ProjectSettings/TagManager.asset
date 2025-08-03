@@ -10,6 +10,7 @@ TagManager:
   - enemy
   - weapon
   - key
+  - box
   layers:
   - Default
   - TransparentFX

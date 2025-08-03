@@ -1,6 +1,5 @@
 using System.Collections.Generic;
-using JetBrains.Annotations;
-using UnityEditor.U2D;
+using TMPro;
 using UnityEngine;
 
 public class PlayerInventory : MonoBehaviour
@@ -20,10 +19,11 @@ public class PlayerInventory : MonoBehaviour
 
     void Start()
     {
+        equipboxnum = 0;
         spriteRenderer = GetComponent<SpriteRenderer>();
 
         equipboxnum = PlayerPrefs.GetInt("box", 0);
-
+        tMP_Text.text = equipboxnum.ToString();
     }
 
     public void AddItem(Item item)
@@ -53,15 +53,24 @@ public class PlayerInventory : MonoBehaviour
 
     public void Saveequipbox()
     {
+        Debug.Log(equipboxnum);
         equipboxnum += 1;
         PlayerPrefs.SetInt("box", equipboxnum);
+        tMP_Text.text = equipboxnum.ToString();
+
     }
 
+
+    public TMP_Text tMP_Text;
     public bool checkequip()
     {
         bool isok = false;
 
-        // if(equipboxnum==4 && 
+        if (equipboxnum >= 4)
+        {
+
+            isok = true;
+         } 
 
         return isok;
     }
@@ -83,9 +92,14 @@ public class PlayerInventory : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other)
     {
-          if (other.CompareTag("key"))
+        if (other.CompareTag("key"))
         {
             PlayerPrefs.SetInt("key", 1);
+            Destroy(other.gameObject);
+        }
+        if (other.CompareTag("box"))
+        {
+            Saveequipbox();
             Destroy(other.gameObject);
          }
     }

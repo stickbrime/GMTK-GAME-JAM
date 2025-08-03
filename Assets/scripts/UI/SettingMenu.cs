@@ -24,11 +24,14 @@ public class SettingMenu : MonoBehaviour
 
     private void Awake()
     {
-        //ºóÃæÖ±½ÓÑ¡½Å±¾È»ºóÑ¡showsettingº¯Êý¾ÍÐÐ
+        //ï¿½ï¿½ï¿½ï¿½Ö±ï¿½ï¿½Ñ¡ï¿½Å±ï¿½È»ï¿½ï¿½Ñ¡showsettingï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
         if (Instance == null)
             Instance = this;
         else
             Destroy(gameObject);
+
+            
+        DontDestroyOnLoad(this.gameObject);
     }
     // Start is called before the first frame update
     void Start()

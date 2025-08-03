@@ -22,7 +22,7 @@ public class SceneTransitionManager : MonoBehaviour
         }
 
         Instance = this;
-        DontDestroyOnLoad(gameObject);
+      //  DontDestroyOnLoad(gameObject);
         InitializeFadeCanvas();
     }
 
@@ -39,20 +39,28 @@ public class SceneTransitionManager : MonoBehaviour
 
     IEnumerator TransitionRoutine(string sceneName, float duration)
     {
-        // ╣╜ЁЖ╣╫╨зфа
+        // О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
         yield return StartCoroutine(Fade(0f, 1f, duration / 2, true));
 
-        // ╪стьпбЁ║╬╟
+        // О©╫О©╫О©╫О©╫О©╫бЁО©╫О©╫О©╫
         SceneManager.LoadScene(sceneName);
 
-        // х╥╠ёЁ║╬╟мЙх╚╪сть
+
+        if (sceneName == "level 01")
+        {
+            audioControl.instance.Currentindex = 0;
+        }
+        audioControl.instance.Currentindex++;
+        audioControl.instance.playFloorauio();
+
+        // х╥О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫х╚О©╫О©╫О©╫О©╫
         yield return null;
         yield return null;
 
-        // ╣╜хКотй╬пбЁ║╬╟
+        // О©╫О©╫О©╫О©╫О©╫О©╫й╬О©╫бЁО©╫О©╫О©╫
         yield return StartCoroutine(Fade(1f, 0f, duration / 2, false));
 
-        // ж╢ппмЙЁи╩ь╣В
+        // ж╢О©╫О©╫О©╫О©╫и╩ь╣О©╫
         onCompleteCallback?.Invoke();
     }
 
@@ -69,10 +77,10 @@ public class SceneTransitionManager : MonoBehaviour
         }
         fadeCanvas.alpha = to;
 
-        // хГ╧Шйг╣╜ЁЖё╛тзуБюО©иртлМ╪с╤НмБп╖╧Ш
+        // О©╫О©╫О©╫О©╫г╣О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫с╤О©╫О©╫О©╫п╖О©╫О©╫
         if (isFadeOut && to >= 1f)
         {
-            // ©ирттзуБюОлМ╪срТп╖╩РфДкШп╖╧Ш
+            // О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫п╖О©╫О©╫О©╫О©╫О©╫О©╫п╖О©╫О©╫
         }
     }
 
