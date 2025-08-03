@@ -17,7 +17,6 @@ public class SettingMenu : MonoBehaviour
     public GameObject settingsPanel;
     public GameObject backgroundMask;
 
-    public AudioSource soundSource;
     public AudioSource musicSource;
 
     public AudioMixer gameAudioMixer;
@@ -37,7 +36,6 @@ public class SettingMenu : MonoBehaviour
         backgroundMask.SetActive(false);
 
         musicSlider.onValueChanged.AddListener(AdjustMusicVolume);
-        soundSlider.onValueChanged.AddListener(AdjustSoundVolume);
         exitButton.onClick.AddListener(ExitGame);
         continueButton.onClick.AddListener(HideSettings);
 
@@ -48,23 +46,17 @@ public class SettingMenu : MonoBehaviour
         soundSlider.value = savedSoundVol;
 
         AdjustMusicVolume(savedMusicVol);
-        AdjustSoundVolume(savedSoundVol);
     }
 
     void AdjustMusicVolume(float value)
     {
-        float volume = Mathf.Lerp(-80f, 0f, value);
+        float volume = Mathf.Lerp(-50f, 0f, value);
         gameAudioMixer.SetFloat("MusicVolume", volume);
 
         PlayerPrefs.SetFloat("MusicVolume", value);
     }
 
-    void AdjustSoundVolume(float value)
-    {
-        soundSource.volume = value;
-        PlayerPrefs.SetFloat("SoundVolume", value);
-    }
-
+ 
     public void ShowSettings()
     {
         settingsPanel.SetActive(true);
