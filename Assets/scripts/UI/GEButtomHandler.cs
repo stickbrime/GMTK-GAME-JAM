@@ -10,6 +10,7 @@ public class GEButtomHandler : MonoBehaviour
     public void OnRestartButtonClick()
     {
         Debug.Log("点击了重新开始按钮");
+        //要改加载其他画面这里改下就行，记得build setting、
         SceneManager.LoadScene("GameBegin");
     }
 
