@@ -1,15 +1,15 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Collider2D))]
-[RequireComponent(typeof(SpriteRenderer))] // È·±£ÓÐSpriteRenderer×é¼þ
+[RequireComponent(typeof(SpriteRenderer))] // È·ï¿½ï¿½ï¿½ï¿½SpriteRendererï¿½ï¿½ï¿½
 public class TeleportZone : MonoBehaviour
 {
-    [Header("´«ËÍÉèÖÃ")]
+    [Header("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")]
     public string targetScene = "Level 02";
     public float fadeDuration = 1.5f;
     public KeyCode interactKey = KeyCode.E;
 
-    [Header("ÊÓ¾õ·´À¡")]
+    [Header("ï¿½Ó¾ï¿½ï¿½ï¿½ï¿½ï¿½")]
     public Color highlightColor = new Color(1, 0.8f, 0.2f);
 
     private Color originalColor;
@@ -18,18 +18,18 @@ public class TeleportZone : MonoBehaviour
 
     void Start()
     {
-        // °²È«»ñÈ¡×é¼þ
+        // ï¿½ï¿½È«ï¿½ï¿½È¡ï¿½ï¿½ï¿½
         spriteRenderer = GetComponent<SpriteRenderer>();
         if (spriteRenderer == null)
         {
             Debug.LogError("SpriteRenderer component missing!", this);
-            enabled = false; // ½ûÓÃ½Å±¾
+            enabled = false; // ï¿½ï¿½ï¿½Ã½Å±ï¿½
             return;
         }
 
         originalColor = spriteRenderer.color;
 
-        // È·±£Åö×²ÌåÊÇ´¥·¢Æ÷
+        // È·ï¿½ï¿½ï¿½ï¿½×²ï¿½ï¿½ï¿½Ç´ï¿½ï¿½ï¿½ï¿½ï¿½
         Collider2D collider = GetComponent<Collider2D>();
         if (collider != null)
         {
@@ -45,7 +45,10 @@ public class TeleportZone : MonoBehaviour
     {
         if (playerInRange && Input.GetKeyDown(interactKey))
         {
-            if (SceneTransitionManager.Instance != null)
+
+            if ( PlayerInventory.instance.getkeys())
+            {
+        if (SceneTransitionManager.Instance != null)
             {
                 SceneTransitionManager.Instance.TransitionToScene(targetScene, fadeDuration);
             }
@@ -53,12 +56,16 @@ public class TeleportZone : MonoBehaviour
             {
                 Debug.LogWarning("SceneTransitionManager instance missing");
             }
+
+             }
+
+    
         }
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        // ¸ü°²È«µÄ±êÇ©¼ì²é
+        // ï¿½ï¿½ï¿½ï¿½È«ï¿½Ä±ï¿½Ç©ï¿½ï¿½ï¿½
         if (other != null && other.CompareTag("Player"))
         {
             playerInRange = true;
@@ -67,6 +74,7 @@ public class TeleportZone : MonoBehaviour
                 spriteRenderer.color = highlightColor;
             }
         }
+      
     }
 
     void OnTriggerExit2D(Collider2D other)
@@ -83,7 +91,7 @@ public class TeleportZone : MonoBehaviour
 
     void OnDrawGizmos()
     {
-        // ¿ÉÊÓ»¯´¥·¢·¶Î§
+        // ï¿½ï¿½ï¿½Ó»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î§
         Gizmos.color = Color.cyan;
         Collider2D collider = GetComponent<Collider2D>();
         if (collider != null)

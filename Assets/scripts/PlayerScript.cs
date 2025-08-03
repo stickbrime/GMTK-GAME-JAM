@@ -14,21 +14,24 @@ public class PlayerScript : MonoBehaviour
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
     public float attackCooldown = 1f;
-    public float attackDuration = 0.2f; 
+    public float attackDuration = 0.2f;
     private float lastAttackTime;
     private PlayerInventory inventory;
     private SpriteRenderer spriteRenderer;
     public Rigidbody2D playerphys;
+    public Animator playeranims;
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
         inventory = GetComponent<PlayerInventory>();
         playerphys = this.GetComponent<Rigidbody2D>();
+        playeranims = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        playeranims.SetFloat("movespeed", movespeed);
         if (Input.GetKey(KeyCode.W))
         {
             // player.transform.position += (Vector3.up * movespeed) * Time.deltaTime;
@@ -38,6 +41,7 @@ public class PlayerScript : MonoBehaviour
         {
             // player.transform.position += (Vector3.left * movespeed) * Time.deltaTime;
             playerphys.AddForce((Vector3.left * movespeed), ForceMode2D.Impulse);
+            player.transform.rotation = Quaternion.Euler(new Vector3(0, 180, 0));
         }
         if (Input.GetKey(KeyCode.S))
         {
@@ -48,10 +52,11 @@ public class PlayerScript : MonoBehaviour
         {
             // player.transform.position += (Vector3.right * movespeed) * Time.deltaTime;
             playerphys.AddForce((Vector3.right * movespeed), ForceMode2D.Impulse);
+            player.transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
         }
         if (Input.GetKey(KeyCode.Space) && Time.time - lastAttackTime >= attackCooldown)
         {
-             if (HasWeapon())
+            if (HasWeapon())
             {
                 StartCoroutine(HandleAttack());
                 lastAttackTime = Time.time;
@@ -75,7 +80,7 @@ public class PlayerScript : MonoBehaviour
         }
         // Debug.Log(scenei);
     }
-     bool HasWeapon()
+    bool HasWeapon()
     {
         return inventory.items.Exists(i => i.itemType == ItemType.Weapon);
     }
@@ -109,9 +114,9 @@ public class PlayerScript : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "exit")
+        if (other.gameObject.tag == "enemy")
         {
-
+            playeranims.SetTrigger("ihurt");
         }
     }
 }
