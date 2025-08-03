@@ -7,6 +7,9 @@ TagManager:
   - weaponpos
   - player
   - exit
+  - enemy
+  - weapon
+  - key
   layers:
   - Default
   - TransparentFX
