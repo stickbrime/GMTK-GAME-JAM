@@ -2066,12 +2066,12 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2087773193}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 35846fce58a87b04cbab90476b00820f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetScene: Level 02
+  targetScene: Level 03
   fadeDuration: 5
   interactKey: 101
   highlightColor: {r: 1, g: 0.8, b: 0.2, a: 1}
@@ -2087,7 +2087,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9acb9077cbc6e2b4688b32e405911304, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetSceneName: level 02
+  targetSceneName: level 03
   interactKey: 101
   activationRange: 1.5
   fadeDuration: 1
