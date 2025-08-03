@@ -24,7 +24,6 @@ public class SettingMenu : MonoBehaviour
 
     private void Awake()
     {
-        //����ֱ��ѡ�ű�Ȼ��ѡshowsetting��������
         if (Instance == null)
             Instance = this;
         else

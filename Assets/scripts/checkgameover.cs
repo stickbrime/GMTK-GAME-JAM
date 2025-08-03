@@ -31,7 +31,7 @@ public class checkgameover : MonoBehaviour
             {
                 audioControl.instance.Currentindex = 5;
                 audioControl.instance.playFloorauio();
-                SceneManager.LoadSceneAsync(6);
+                SceneManager.LoadSceneAsync(7); 
              }
 
         }

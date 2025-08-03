@@ -10,7 +10,7 @@ public class GBButtomHandler : MonoBehaviour
     public void OnBeginButtonClick()
     {
         Debug.Log("����˿�ʼ��Ϸ��ť");
-        SceneManager.LoadSceneAsync(1);
+        SceneManager.LoadSceneAsync(2);
         audioControl.instance.Currentindex = 1;
         audioControl.instance.playFloorauio();
         PlayerPrefs.SetInt("box", 0);

@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class VideoController : MonoBehaviour
 {
     public VideoPlayer videoPlayer; 
-    public string startSceneName = "GameBegin"; // Build Settings都没加
+    public string startSceneName = "GameBegin"; // Build Settings里要有
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +24,6 @@ public class VideoController : MonoBehaviour
     // 添加缺失的OnVideoEnd方法
     private void OnVideoEnd(VideoPlayer source)
     {
-        SceneManager.LoadScene(startSceneName);
+        SceneManager.LoadScene(2);
     }
 }

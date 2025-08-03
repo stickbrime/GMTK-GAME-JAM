@@ -4,8 +4,8 @@ using UnityEngine;
 [RequireComponent(typeof(SpriteRenderer))] // ȷ����SpriteRenderer���
 public class TeleportZone : MonoBehaviour
 {
-    [Header("��������")]
-    public string targetScene = "Level 02";
+    [Header("传送目标场景")]
+    public string targetScene = "Level 02"; // 原Level 02改为Level 03
     public float fadeDuration = 1.5f;
     public KeyCode interactKey = KeyCode.E;
 
